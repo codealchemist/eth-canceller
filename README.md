@@ -1,16 +1,8 @@
 # eth-canceller
 
-```
- _____ _____ _   _    ____                     _ _
-| ____|_   _| | | |  / ___|__ _ _ __   ___ ___| | | ___ _ __
-|  _|   | | | |_| | | |   / _` | '_ \ / __/ _ \ | |/ _ \ '__|
-| |___  | | |  _  | | |__| (_| | | | | (_|  __/ | |  __/ |
-|_____| |_| |_| |_|  \____\__,_|_| |_|\___\___|_|_|\___|_|
-
-
-```
-
 Simply cancel an ETH transaction.
+
+<img width="455" alt="image" src="https://github.com/codealchemist/eth-canceller/assets/1118293/0e1fc58d-06e8-4c82-94e6-8bb55f660b30">
 
 ## Usage
 
