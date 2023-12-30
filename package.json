@@ -20,5 +20,6 @@
     "speedup"
   ],
   "author": "Alberto Miranda",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "github:codealchemist/eth-canceller"
 }
